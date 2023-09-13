@@ -1,0 +1,267 @@
+
+p.navbar-brand{
+     font-family: 'Qwigley', cursive ;
+     font-size: 80px;
+       
+}
+
+
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+p.navbar-text{
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    margin-left: 0;
+    margin-right: 30px;
+    line-height: 25.2px; 
+}
+input.form-control{
+    position: relative;
+    width: 98px;
+    height: 18px;
+    margin-right: 0px;
+}
+
+.figure{
+    position: absolute;
+    left: 800px;
+    top: 250px;
+    width: 525px;
+    height: 424px;
+
+}
+.bg-image{
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(./img-page-1/yelloimg.png);
+    width: 1920px;
+    height: 635px;
+}
+
+.display-1{
+font-size: 188px; 
+ 
+
+font-family: 'Qwigley', cursive ;
+font-style:  'bold', cursive ;
+font-weight: 400;
+line-height:88px;
+color: #ffff;
+}
+.display-4{
+    font-size: 20px !important; 
+     
+    
+    font-family: 'Source Sans Pro', cursive ;
+    font-style:  'bold', cursive ;
+    font-weight: 400;
+    line-height:20px;
+    color: #504F4F;
+    }
+#near-you{
+    line-height: 26px;
+    font-size: 22px;
+    color: #504F4F;
+}
+.para{
+    float: left;
+    padding-top: 90px;
+    padding-left: 75px;
+
+}
+
+.bg-white{
+    position: absolute;
+    width: 700px;
+    height: 196px;
+    margin-top: 410px;
+    margin-left: 75px;
+
+}
+.btn-primary{
+    position: absolute;
+    background-color: #F17228 !important;
+    width: 100px;
+    height: 38px;
+    margin-left: 20px;
+    padding: 5px !important;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 8px !important;
+    border-color: #f17228 !important;
+    font-family: 'Source Sans Pro';
+    font-size: 18px;
+    line-height: 18px;
+
+
+}
+.btn-base{
+    position: relative;
+    left: 200px !important;
+    margin-top: 10px;
+    color: #757575 !important;
+}
+
+.btn-warning{
+    position: absolute;
+    background-color: #FF7A7A !important;
+    width: 200px;
+    height: 60px;
+    margin-left: 480px;
+    margin-top: 25px;
+    border-radius: 10px !important;
+    border-color: #FF7A7A !important;
+}
+.input-group{
+    position: absolute;
+    height: 50px;
+    top: 80px;
+    left: 10px;
+    width: 450px !important;
+}
+.form-control{
+    position: absolute;
+    height: 50px !important;
+    background: #F5F5F5 !important;
+    margin-top: 0px;
+    margin-left: 5px !important;
+    width: 200px !important;
+}
+
+.second-page{
+    position: relative;
+    top: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.second_menu{
+    display: flex;
+    justify-content: space-around;
+}
+
+.work1{
+
+    margin-top: 40px;
+    margin-left: 400px;
+}
+
+.bg-body{
+    position: relative;
+    margin-right: 0;
+    color: #FB3C00;
+
+    text-align: left;
+
+
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 250px;
+
+    padding-top: 100px;
+    font-size: 50px !important;
+}
+
+.search{
+    margin-left: 220px;
+    padding-top: 50px;
+}
+
+.tiffin{
+
+    margin-top: 150px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+
+    gap: 40px;
+}
+.fourth_page h2{
+    line-height: 48px;
+    font-size: 42px;
+    color: #ffb30e;
+}
+#fourth-img{
+    position: relative;
+    top: 50px;
+    margin-left: 100px;
+}
+
+
+#process-btn{
+
+    background-color: #ffb30e !important;
+    position: relative;
+    margin-left: 0px;
+    margin-top: 80px;
+
+    height: 60px;
+    width: 300px;
+    color: #ffff;
+
+    border-radius: 8px;
+}
+#mini-tiffin{
+    width: 900px;
+    height: 450px;
+    margin-left: 420px;
+    margin-top: -330px;
+
+}
+
+#hpopular{
+    position: relative;
+    font-family: 'Source Sans Pro', cursive ;
+    font-size: 43px;
+    line-height: 48px;
+    width: 286px;
+    height: 48px;
+    left: 550px;
+    top: 50px;
+}
+
+#pitems{
+    position: relative;
+     background-color: aliceblue;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     display: flex;
+     align-content: space-between;
+     width: 1200px;
+     height: 750px;
+
+}
+#footer{
+    top: 75px;
+}
+#tableid{
+    background-color: #0000 !important;
+    width: 700px;
+    color: #ffff;
+    margin-left: 95px;
+    top: 50px;
+
+}
+#rounded-img{
+    position: relative;
+    margin-top: -600px;
+    margin-left: 700px;
+}
+
+#email-id{
+    position: relative;
+    margin-top: -300px;
+    margin-left: 900px;
+}
+
+#floatingInputDisabled{
+    background-color: #424242 !important;
+    border-color: #424242;
+
+    width: 250px !important;
+
+    height: 60px;
+}
